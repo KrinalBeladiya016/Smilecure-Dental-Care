@@ -1,0 +1,107 @@
+.footer-div {
+    padding-top: 50px;
+    color: #20506b;
+}
+
+.footer-bg-color {
+    background-color: #e5e7eb;
+}
+
+.s-detail {
+    color: gray;
+    font-size: 12px;
+    letter-spacing: 0.1rem;
+}
+
+.tt-color {
+    color: #20506b;
+}
+
+.f-size-20 {
+    font-size: 20px;
+}
+
+.f-icon {
+    font-size: 40px;
+    padding: 10px;
+    height: 62px;
+    width: 55px;
+    padding-left: 14px;
+    border: 2px solid #20506b;
+    border-radius: 3px;
+}
+
+.l-i-icon {
+    border: 2px solid #20506b;
+    font-size: 40px;
+    padding: 10px;
+    border-radius: 3px;
+}
+
+.mt20 {
+    margin-top: 20px;
+}
+
+.mb10 {
+    margin-bottom: 10px;
+}
+
+.f-size-25 {
+    font-size: 25px;
+}
+
+.line-h-40 {
+    line-height: 40px;
+}
+
+.b-radius-5 {
+    border-radius: 5px;
+}
+
+.t-bg-color {
+    background-color: #20506b;
+}
+
+.p-i-icon {
+    width: 48px;
+    height: 48px;
+    font-size: 50px;
+    padding-left: 3px;
+    border-radius: 3px;
+}
+
+.lbt-color {
+    color: rgba(19, 15, 15, 0.64);
+}
+
+.f-bg {
+    height: 50px;
+    background-color: #d4d4d4;
+}
+
+.f-text {
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+a{
+    text-decoration: none !important;
+    color: #2d7096 !important;
+}
+.fdiv a:hover,.sdiv a:hover{
+    text-decoration: underline !important;
+    color: #20506b !important;
+    font-weight: bold !important;
+}
+.gadiv button:hover{
+    border: 2px solid #20506b !important;
+    background-color: white !important;
+    color: #20506b !important;
+    transition: all 0.3s;
+}
+input:focus{
+    border: 2px solid #20506b !important;
+    box-shadow: none !important;
+    color: #20506b !important;
+    font-size: 17px;
+}
